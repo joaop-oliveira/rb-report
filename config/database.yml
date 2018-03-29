@@ -5,7 +5,7 @@
 #   gem 'sqlite3'
 #
 default: &default
-  adapter: oracle
+  adapter: ruby-oci8
   host: "10.7.26.9"
   username: "velit"
   password: "a"
